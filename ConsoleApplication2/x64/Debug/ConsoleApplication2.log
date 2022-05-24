@@ -1,0 +1,6 @@
+﻿  homework_2.cpp
+C:\С++\ConsoleApplication2\ConsoleApplication2\homework_2.cpp(8,21): warning C4305: инициализация: усечение из "double" в "float"
+C:\С++\ConsoleApplication2\ConsoleApplication2\homework_2.cpp(9,19): warning C4305: инициализация: усечение из "int" в "char"
+C:\С++\ConsoleApplication2\ConsoleApplication2\homework_2.cpp(9,14): warning C4309: инициализация: усечение константного значения
+C:\С++\ConsoleApplication2\ConsoleApplication2\homework_2.cpp(17,24): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication2.vcxproj -> C:\С++\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
